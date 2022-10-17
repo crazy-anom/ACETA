@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="">
       <Head>
-        <title>Create Next App</title>
+        <title>ACETA CLUB</title>
         <meta name="description" content="Gowdaman ACETA club Achariya college of engineering technology" />
         <link rel="icon" href=""/>
       </Head>
