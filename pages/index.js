@@ -6,7 +6,7 @@ export default function Home() {
     <div className="">
       <Head>
         <title>ACETA CLUB</title>
-        <meta name="description" content="Gowdaman ACETA club Achariya college of engineering technology" />
+        <meta name="description" content="ACETA club Achariya college of engineering technology developed by gowdaman 2nd year" />
         <link rel="icon" href=""/>
       </Head>
       <main className="">
